@@ -1,0 +1,6 @@
+# Machine learning
+scikit-learn
+
+# Data exploration
+pandas
+plotly
