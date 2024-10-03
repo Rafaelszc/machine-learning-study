@@ -30,9 +30,9 @@ Using 50% of train data, the accuracy is: 4.92%
 Copy and paste this in bash:
 
 ```bash
-$ git clone https://github.com/Rafaelszc/machine-learning-study.git
-$ cd machine-learning-study/
-$ pip install -r requirements.txt
+git clone https://github.com/Rafaelszc/machine-learning-study.git
+cd machine-learning-study/
+pip install -r requirements.txt
 ```
 
 ## Contact-me
